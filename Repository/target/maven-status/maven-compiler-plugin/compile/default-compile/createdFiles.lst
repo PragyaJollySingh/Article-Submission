@@ -1,0 +1,11 @@
+com\pproval\app\UserRepository.class
+com\pproval\app\TextFile.class
+com\pproval\app\Application.class
+com\pproval\app\Reviewer.class
+com\pproval\app\ServletInitializer.class
+com\pproval\app\ArticleRepository.class
+com\pproval\app\Article.class
+com\pproval\app\Submitter.class
+com\pproval\app\Editor.class
+com\pproval\app\User.class
+com\pproval\app\Article$Status.class
